@@ -1,0 +1,15 @@
+{
+  "version": "0.1.2",
+  "notes": "AutoTravel 0.1.2",
+  "pub_date": "2026-05-18T09:53:33.618Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MW1EcVpQYzhZSVRCbFFOaFdobXpoamUzenZPRmlUTkxBZjFvQzAvNFgxWU9PTmFjd1o2RThJU1lCbWhFcDg5SmU5dm1zUjA5UUlSbEpjQ0ZJYnRzSVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDk3OTM0CWZpbGU6QXV0b1RyYXZlbF8wLjEuMl94NjQtc2V0dXAuZXhlCkwva2Y1OEQ1VElkK2Q0aGcxSmFVU3g0ZHd0OUxqWWhsalRzRzVMd2RVQVZFa2pNTW5VOXBNSXhCNTgxeFg3cjhkb2lCeHFFY3lIcnQvMlkveUFRVUNBPT0K",
+      "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel_0.1.2_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MXY3NHlIcFFWOC9KV0tNYndZSUY4MjNlQmJzeFBGVjZSZzhMQnB4NmVKRTdaRGs3SXo1RDFDdXgyTlVmZDY0ZWVYd1dXa1VVTkR2Z2dKS3BFcGovaXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDk3NDYyCWZpbGU6QXV0b1RyYXZlbC5hcHAudGFyLmd6Ckx0N2Y5eUxtVE5JUXpsa2tJMWNNMG55K3lhbTlnNndSL2p2TkZtRjJVM3ZJeDdyaSsyaDhlSVVJVndTUWc4Q0dPTDlqMERoTGJ4QkMxTTZ3cWFLWEFBPT0K",
+      "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel.app.tar.gz"
+    }
+  }
+}
