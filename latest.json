@@ -1,14 +1,14 @@
 {
-  "version": "0.1.6",
-  "notes": "AutoTravel 已更新到 V0.1.6\n- 飞猪查价会过滤中转航班，避免中转结果混入直飞列表。\n- 自动升级会先弹窗确认，升级完成后提示即将退出软件。",
-  "pub_date": "2026-05-18T14:16:37.996Z",
+  "version": "0.1.7",
+  "notes": "AutoTravel 已更新到 V0.1.7\n- 航班查价新增 IATA 渠道，并优化空航班号结果的合并显示。\n- 查价界面新增历史记录、出发到达互换按钮，日期默认明天且不可选择过去日期。\n- 常用航司新增厦航，查价表格去掉备注列并优化键盘 Tab 焦点顺序。",
+  "pub_date": "2026-05-19T13:07:55.943Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MXJrVUVBK1pleHJWU2prZXlCcGthK3YrUzBIMGNoVDJiUWFnenBNYjFSWldiWDJjWG84LzlxN0JuSFFjODNwWVVGWm1lTHNjWDgwUzF1SGVLWS9YTXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTEzNTA0CWZpbGU6QXV0b1RyYXZlbF8wLjEuNl94NjQtc2V0dXAuZXhlCit2WEtWM1JJTHhHTU16bDVRUzRjSlBGUGNMRUthcVYvbUxWbmxJK0ZTekxKa3lmVXBpV0VVWCs0N21NK3BxSFFkdlp5Z1Q1OFovQTdhSXVsNGUzbkRnPT0K",
-      "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MW13TXgyN3RYOVd3blQxZ280ZVFJckRpZlFydFRHZEh5UFhUbWlGTG5RV1hZd3hPdjF4V05KTHBzTW5ZelBucHVvR0lJNFhDWU9FbDJ3YnhwZzVUc2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk1OTQ0CWZpbGU6QXV0b1RyYXZlbF8wLjEuN194NjQtc2V0dXAuZXhlCitVay9pQXNtVzV5eFpteHdzWWtBVnVWdTRGWmx1dkR6SkRjSTNBdDNhbGIxTlFnSXhWVEwvNHJqY2o3dGREQXlTVng4ekxoM0tmcmtMZmR0VjFYeERRPT0K",
+      "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel_0.1.7_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MXFWQkVBV1BkM3lhTDlsVjFQakIxUXpLNEZYcWlteS9ha0R3UjJLL2FzTWhaMytDdkVyMmhtR3VSTjVLVlBUcG4ySm1EWVo4YTBkdFNhVHlWS2FTcEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTEyOTYxCWZpbGU6QXV0b1RyYXZlbC5hcHAudGFyLmd6CkdkOUgxTkpTem1mQ0VVWmFCdDVjM25WTStPZWdqamE0aXVwNWY4L3NuYlZtYUE5UjlmbDBrZ0lyMitDaFJtTi81Z0ZzeVRYL1JPTkU5MU9lVzRXMENRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MWdQS29ZNEdBclZKQzV1WHByVGpYVFRRVjlwOW95TkZ6MDI5Z244Q1RKa1UybFNBUEpwbklxMHVudXFrY2dwWEVqTDVRQ2NCU0w2RmdSOHNWOHpJSmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk1NDAwCWZpbGU6QXV0b1RyYXZlbC5hcHAudGFyLmd6CnFjT3JHOFJLZlBYTjM1TDVTUkt4NXFaKzZDQ01wRWQvWC9sa0xqR0UvTGZYMG1pdjd6Vm1ibGtweFJ6V0kyNDN4V040QnNGSnQ1VkFSNGdQRnZBY0F3PT0K",
       "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel.app.tar.gz"
     }
   }
