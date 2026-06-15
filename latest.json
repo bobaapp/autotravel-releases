@@ -1,14 +1,14 @@
 {
-  "version": "0.1.16",
-  "notes": "AutoTravel 0.1.16",
-  "pub_date": "2026-06-15T10:30:00.340Z",
+  "version": "0.1.17",
+  "notes": "AutoTravel 已更新到 V0.1.17\n- 携程查价的自定义基建燃油费仅对中国大陆境内航线自动补加。\n- 港澳台及国际航线不会补加国内基建燃油费，避免国际票价显示偏高。\n- 携程返回航班后会按实际起降机场重新判断是否属于大陆境内航线。",
+  "pub_date": "2026-06-15T15:14:17.513Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MW5Oc2RNdnFVNFpqS29GVU13YWN5S1RYNHIzUEZQZENRTFkrNXY5cHk5Y3ovVFpOdmlKMDBXeUE2RFZVMThZaFduQWhJd3F6NUloTUd2QlRZL0VLZFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTE5MTkzCWZpbGU6QXV0b1RyYXZlbF8wLjEuMTZfeDY0LXNldHVwLmV4ZQpyL1pMeFQwb1YyZy9KTUx3Q2x2MDU5N1dxNVI0VzRNNHl2bG9jamtCbmd0ZzVWY1NSZnJ0WHNzL3h2SlJDR05MMmZCUGRaa0dMRWl4NDBOeFZJNHZDUT09Cg==",
-      "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel_0.1.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MXRFNjd5UXZPVklIV0IvRDdTZ2N1bWRnM1E0eU1qWVlnRmhxdjlIV2dnZnlHbElyL1h6UEJNaVZqVlJlRHNTalpjMkRIWGlxMW1kNGVJajdyWi9DendvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTM2MzM2CWZpbGU6QXV0b1RyYXZlbF8wLjEuMTdfeDY0LXNldHVwLmV4ZQpZZkpLUVI2dmE4MjllWUJoWVNaZHowbm1BNVA1Zi9nNndKQWkxenY0VE9kK0taZTdQUEFmL3BDY3VRTVZIS1d4VTJoaXZWdTk0N2tWUkRWbFNEWGhBdz09Cg==",
+      "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel_0.1.17_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MXJaUnFDYTZhMlBpK0RLQTRjNFJubWNVMVp3R3R2TnhOa3l0aGQ0TkkzYi9LcFFaank1T1JEUWhjekJpRDdFN0p6NW5hSndmR2VkVVFsTXJ5YjlET3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTE4NDI1CWZpbGU6QXV0b1RyYXZlbC5hcHAudGFyLmd6Cmp4WFRmR2IveHdpdFRuUGFjVHZiTUN1dlhwWlp2YkJhZFhRSmdkYjdONmdRTnl1dlM4KzFFS2Ywb0oydVg4VFJBaWVaWll2U1dSWFJ5N0locHFudkR3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdStmallTazE0MWphcVdoUUVvYXArRFhVWkthd2tnR0VWL0tzNTJtK3NhaExJSXJQcWYrS1ZoV01Xd21pSHkwS2hBRm1nSkttN202ZXVTNG03cDFvQzZmdGl4TmhpbVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTM1NjY2CWZpbGU6QXV0b1RyYXZlbC5hcHAudGFyLmd6CmFZNjNOSFIrYnZvRllRKzIzQXZFQitlTFdrSEZ6MENyaDRQckY4YW1mZDhmdnVCckFjNXpjTkVYZTBsU3hZMndHMEZrUTJmbG5mWFJKc3FGelBRZkF3PT0K",
       "url": "https://github.com/bobaapp/autotravel-releases/releases/latest/download/AutoTravel.app.tar.gz"
     }
   }
